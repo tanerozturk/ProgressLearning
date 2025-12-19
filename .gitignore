@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+.progress
+.progress/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Model weights and checkpoints
+model/
+*.pth
+*.pt
+*.ckpt
+*.pb
+
+# Images (if you don't want to commit them)
+images/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.gif
+
+# Progress tracking (appears to be temporary)
+.progress/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# PyTorch specific
+*.pth.tar
+
+# Logs
+*.log
+
+# Project specific
+/HomeWork/model
