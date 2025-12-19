@@ -43,13 +43,6 @@ model/
 *.ckpt
 *.pb
 
-# Images (if you don't want to commit them)
-*.jpg
-*.jpeg
-*.png
-*.webp
-*.gif
-
 # Progress tracking (appears to be temporary)
 .progress/
 
