@@ -44,7 +44,6 @@ model/
 *.pb
 
 # Images (if you don't want to commit them)
-images/
 *.jpg
 *.jpeg
 *.png
